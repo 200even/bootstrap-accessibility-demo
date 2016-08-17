@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-accessibility-demo",
+  "description": "PoC for app webview accessibility features",
+  "main": "index.js",
+  "authors": [
+    "Scott Ferguson"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8",
+    "angular-translate": "^2.11.1",
+    "angular-ui-router": "ui-router#^0.3.1",
+    "bootstrap-accessibility-plugin": "bootstrapaccessibilityplugin#^1.0.4",
+    "angular-translate-loader-static-files": "^2.11.1",
+    "angular-aria": "^1.5.8"
+  }
+}
